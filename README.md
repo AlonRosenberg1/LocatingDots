@@ -6,4 +6,7 @@
  the Algorithm uses 
  
  example:
- ![example](https://github.com/AlonRosenberg1/LocatingDots/blob/main/dots2.jpg?raw=true)
+ input:
+ ![example](https://github.com/AlonRosenberg1/LocatingDots/blob/main/dots2.jpg)
+ 
+ output:
