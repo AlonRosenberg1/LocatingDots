@@ -5,8 +5,9 @@
  the needed resolution in sub pixel 
  the Algorithm uses 
  
- example:
+ ## example
  input:
+ 
  ![example](https://github.com/AlonRosenberg1/LocatingDots/blob/main/dots2.jpg)
  
  output:
