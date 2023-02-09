@@ -11,10 +11,11 @@
  ### team 2 
  The dots are about 50 pixels wide and the needed resolution is 0.1 pixel. The output will be written to CSV file in mm.
  
- ## team 3
+ ### team 3
  This team supports a varies size of dots and the needed resolution sould be 0.2 pixels. The output should be written to TXT file.
  
- the Algorithm uses 
+ ## Algorithm 
+ The Algorithm uses 
  
  ## example
  input:
