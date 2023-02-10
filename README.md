@@ -15,7 +15,7 @@
  This team supports a varies size of dots and the needed resolution sould be 0.2 pixels. The output should be written to TXT file.
  
  ## Algorithm 
- The Algorithm uses 
+ The Algorithm uses Hough transform to fit circles in the image, then it uses [momentum methood](https://arxiv.org/pdf/1104.3776.pdf) to achive sub pixle resolution 
  
  ## example
  input:
@@ -23,3 +23,4 @@
  ![example](https://github.com/AlonRosenberg1/LocatingDots/blob/main/dots2.jpg)
  
  output:
+ (243.56, 780.27, 29.9), (320.22, 111.97, 29.9), etc...
